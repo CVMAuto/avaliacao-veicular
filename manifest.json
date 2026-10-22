@@ -1,0 +1,15 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "CVMAuto Avaliação Veicular",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "SAV CVMAuto",
+  "start_url": "/index.html",
+  "theme_color": "#ffffff",
+  "categories": [
+    "cars"
+  ],
+  "description": "App para avaliação veicular CVMAuto - Consultoria Automotiva"
+}
